@@ -1,4 +1,4 @@
-body {
+.body {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
   background-image: url("Images/background.jpeg");
@@ -8,15 +8,15 @@ body {
   color: white;
 }
 
-h1 {
+.title {
   color: gold;
 }
 
-#message-el {
+.message {
   font-style: italic;
 }
 
-button {
+.button {
   color: #016f32;
   width: 150px;
   background-color: gold;
